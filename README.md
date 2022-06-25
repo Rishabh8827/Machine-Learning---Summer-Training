@@ -6,7 +6,7 @@ This Repo is Assignment Repo for Machine Learning Tasks
 # Day2 - Participation and Submission of Solution to Competitive Regression kind of Problem (Must add some novelty)  - ✔ Done ✔
 
 # Day3 - Comparison of Regression Algorithms(on challenging Dataset) such as - ✔ Done ✔
-   3.0 : Linear Regression,
+   3.0 : Linear Regression,\n
    3.1 : Multiple Linear Regression,
    3.2 : Polynomial Regression,
    3.3 : Support Vector Regressor,
