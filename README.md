@@ -14,16 +14,16 @@ This Repo is Assignment Repo for Machine Learning Tasks
    - #### 3.5  Random Forest Regressor,
    
 ### Day 4 - Comparative analysis of classification algorithm on any classification dataset - ✔ [Done]()
-   #### 4.0 : Logistic Regression
-   #### 4.1 : Decision Tree Classifier
-   #### 4.2 : Random Forest Classifier
-   #### 4.3 : Support Vector Classifier
-   #### 4.4 : K Neighbors Classifier
+   - #### 4.0 : Logistic Regression
+   - #### 4.1 : Decision Tree Classifier
+   - #### 4.2 : Random Forest Classifier
+   - #### 4.3 : Support Vector Classifier
+   - #### 4.4 : K Neighbors Classifier
 
 ### Day 5 - Applying and comparing KMeans / Hierarchical or other clustering algorithm on some challenging dataset - ⏱Pending(June, 27 2022)⏱
-   #### 5.1 : K-means Clustering
-   #### 5.2 : Hierarchical-Based Clustering
-   #### 5.3 : DBSCAN Clustering
-   #### 5.4 : Isolation Forest Clustering
-   #### 5.5 : Gaussian Mixture Clustering
+   - #### 5.1 : K-means Clustering
+   - #### 5.2 : Hierarchical-Based Clustering
+   - #### 5.3 : DBSCAN Clustering
+   - #### 5.4 : Isolation Forest Clustering
+   - #### 5.5 : Gaussian Mixture Clustering
 
