@@ -6,12 +6,12 @@ This Repo is Assignment Repo for Machine Learning Tasks
 ### ✔ Day2 - Participation to Competitive Regression kind of Problem - [Click Here](https://github.com/Rishabh8827/Machine-Learning---Summer-Training/tree/main/Day%202)
 
 ### ✔ Day3 - Comparison of Regression Algorithms(on challenging Dataset) such as - [Click Here](https://github.com/Rishabh8827/Machine-Learning---Summer-Training/tree/main/Day%203)
-   &emsp;- ##### 3.0  Linear Regression,
-   - ##### 3.1  Multiple Linear Regression,
-   - ##### 3.2  Polynomial Regression,
-   - ##### 3.3  Support Vector Regressor,
-   - ##### 3.4  Decision Tree Regressor,
-   - ##### 3.5  Random Forest Regressor,
+   - ##### &nbsp;3.0  Linear Regression,
+   - ##### &nbsp;3.1  Multiple Linear Regression,
+   - ##### &nbsp;3.2  Polynomial Regression,
+   - ##### &nbsp;3.3  Support Vector Regressor,
+   - ##### &nbsp;3.4  Decision Tree Regressor,
+   - ##### &nbsp;&nbsp;&nbsp;3.5  Random Forest Regressor,
    
 ### ✔ Day 4 - Comparative analysis of classification algorithm on any classification dataset - [Click Here](https://github.com/Rishabh8827/Machine-Learning---Summer-Training/tree/main/Day%204)
    - ##### 4.0 : Logistic Regression
