@@ -3,7 +3,7 @@ This Repo is Assignment Repo for Machine Learning Tasks
 
 ### ✔ Day1 - Demonstrate Usage of Min Max Scaling of Features  -  [See My Work](https://github.com/Rishabh8827/Machine-Learning---Summer-Training/tree/main/Day%201)
 
-### ✔ Day2 - Participation to Competitive Regression kind of Problem([Competition Page](https://www.kaggle.com/rishabhpatelco19/competitions)) - [See My Work](https://github.com/Rishabh8827/Machine-Learning---Summer-Training/tree/main/Day%202)
+### ✔ Day2 - Participation to Competitive Regression kind of Problem( [Competition Page](https://www.kaggle.com/rishabhpatelco19/competitions) ) - [See My Work](https://github.com/Rishabh8827/Machine-Learning---Summer-Training/tree/main/Day%202)
 
 ### ✔ Day3 - Comparison of Regression Algorithms( [Kaggle Dataset](https://www.kaggle.com/datasets/yasserh/student-marks-dataset) ) : [See My Work](https://github.com/Rishabh8827/Machine-Learning---Summer-Training/tree/main/Day%203)
    - ##### &nbsp;&nbsp;&nbsp;&nbsp;3.0  Linear Regression,
