@@ -20,7 +20,7 @@ This Repo is Assignment Repo for Machine Learning Tasks
    - ##### &nbsp;&nbsp;&nbsp;&nbsp;4.3 : Support Vector Classifier
    - ##### &nbsp;&nbsp;&nbsp;&nbsp;4.4 : K Neighbors Classifier
 
-### ✔ Day 5 - Applying and comparing clustering algorithm [Kaggle Dataset](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata) - [See My Work](https://github.com/Rishabh8827/Machine-Learning---Summer-Training/tree/main/Day%204](https://github.com/Rishabh8827/Machine-Learning---Summer-Training/tree/main/Day%205)
+### ✔ Day 5 - Applying and comparing clustering algorithm [Kaggle Dataset](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata) - [See My Work](https://github.com/Rishabh8827/Machine-Learning---Summer-Training/tree/main/Day%205)
    - ##### &nbsp;&nbsp;&nbsp;&nbsp;5.1 : K-means Clustering
    - ##### &nbsp;&nbsp;&nbsp;&nbsp;5.2 : Hierarchical-Based Clustering
    - ##### &nbsp;&nbsp;&nbsp;&nbsp;5.3 : DBSCAN Clustering
