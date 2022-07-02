@@ -26,4 +26,15 @@ This Repo is Assignment Repo for Machine Learning Tasks
    - ##### &nbsp;&nbsp;&nbsp;&nbsp;5.3 : DBSCAN Clustering
    - ##### &nbsp;&nbsp;&nbsp;&nbsp;5.4 : Isolation Forest Clustering
    - ##### &nbsp;&nbsp;&nbsp;&nbsp;5.5 : Gaussian Mixture Clustering
-
+   
+### ✔ Day 6 - Revise ANN Model - [See My Work](https://github.com/Rishabh8827/Machine-Learning---Summer-Training/tree/main/Day%206)
+   - ##### &nbsp;&nbsp;&nbsp;&nbsp;6.1 : Model Creation
+   - ##### &nbsp;&nbsp;&nbsp;&nbsp;6.1 : Compilation
+   - ##### &nbsp;&nbsp;&nbsp;&nbsp;6.1 : Training
+   - ##### &nbsp;&nbsp;&nbsp;&nbsp;6.1 : Flattening
+   - ##### &nbsp;&nbsp;&nbsp;&nbsp;6.1 : Saving Model
+   - ##### &nbsp;&nbsp;&nbsp;&nbsp;6.1 : Testing
+### ✔ Day 7 - Compare Results of ANN and CNN - [See My Work](https://github.com/Rishabh8827/Machine-Learning---Summer-Training/tree/main/Day%207)
+### ✔ Day 8 - Transfer Learning For Face Recognition Using Mobile Net - [See My Work](https://github.com/Rishabh8827/Machine-Learning---Summer-Training/tree/main/Day%208)
+### ✔ Day 9 - Implement LSTM Model For Some Time Series Data - [See My Work](https://github.com/Rishabh8827/Machine-Learning---Summer-Training/tree/main/Day%209)
+### ✔ Day 10 - Compare LSTM and Bidirectional LSTM Model - [See My Work](https://github.com/Rishabh8827/Machine-Learning---Summer-Training/tree/main/Day10)
